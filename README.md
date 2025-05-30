@@ -33,7 +33,7 @@ Actualmente estoy finalizando la carrera y tengo experiencia práctica en desarr
 
 ## 📫 ¿Hablamos?
 
-Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/hugo-gonzalez-portilla/) o a través del [formulario de contacto en mi portfolio](https://hupog.dev/#contacto). Estoy abierto a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología.
+Puedes escribirme por [LinkedIn](www.linkedin.com/in/hugo-gonzález-portilla) o a través del [formulario de contacto en mi portfolio](https://hupog.dev/#contacto). Estoy abierto a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología.
 
 ---
 
