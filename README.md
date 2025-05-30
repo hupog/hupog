@@ -18,17 +18,16 @@ Actualmente estoy finalizando la carrera y tengo experiencia práctica en desarr
 
 ## 🧠 En qué estoy trabajando
 
-- ✨ **[Refleja – Diario Digital para Terapias](https://github.com/hugogp/refleja)**: Una app diseñada para mejorar la relación terapeuta-cliente, con funcionalidades como diarios personales, seguimiento emocional y notificaciones inteligentes.  
 - 🌐 **Portfolio personal [hupog.dev](https://hupog.dev)**: Desarrollado con Astro 5.8.1 y alojado en Vercel. Interfaz limpia, animaciones suaves y enfoque mobile-first.
 
 ---
 
 ## 📌 Otros intereses y proyectos
 
-- 🔧 Desarrollo embebido con microcontroladores ATmega2560 (PWM, timers, control de motores)  
+- 🌍 Desarrollo fullstack moderno
 - 📊 Análisis de datos y visualización con R  
 - 🌍 Intercambio SICUE y prácticas en desarrollo web en Galicia y Canarias  
-- 📈 Seguridad informática y análisis de vulnerabilidades (CVE)  
+- ⚙️ Diseño de software escalable y buenas prácticas de arquitectura
 
 ---
 
