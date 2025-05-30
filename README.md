@@ -8,7 +8,7 @@ Actualmente estoy finalizando la carrera y tengo experiencia práctica en desarr
 
 ## 🚀 Tecnologías y herramientas
 
-- **Frontend:** HTML, CSS, JavaScript, Angular, Astro, Tailwind CSS
+- **Frontend:** HTML, CSS, JavaScript, Angular, Astro, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Express.js, Java, Spring Boot  
 - **Bases de datos:** MySQL, PostgreSQL  
 - **Otros:** Git, Vercel, Proteus, ATmega2560  
