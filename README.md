@@ -11,7 +11,7 @@ Actualmente estoy finalizando la carrera y tengo experiencia práctica en desarr
 - **Frontend:** HTML, CSS, JavaScript, Angular, Astro, Tailwind CSS
 - **Backend:** Node.js, Express.js, Java, Spring Boot  
 - **Bases de datos:** MySQL, PostgreSQL  
-- **Otros:** Git, Vercel, Proteus, MapStruct, DTO, PWM, ATmega2560  
+- **Otros:** Git, Vercel, Proteus, ATmega2560  
 - **Lenguajes:** JavaScript, TypeScript, Java, C/C++, R, SQL  
 
 ---
