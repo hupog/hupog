@@ -24,10 +24,9 @@ Actualmente estoy finalizando la carrera y tengo experiencia práctica en desarr
 
 ## 📌 Otros intereses y proyectos
 
-- 🌍 Desarrollo fullstack moderno
-- 📊 Análisis de datos y visualización con R  
-- 🌍 Intercambio SICUE y prácticas en desarrollo web en Galicia y Canarias  
-- ⚙️ Diseño de software escalable y buenas prácticas de arquitectura
+-  Desarrollo fullstack moderno
+-  Intercambio SICUE y prácticas en desarrollo web en Galicia y Canarias  
+-  Diseño de software escalable y buenas prácticas de arquitectura
 
 ---
 
