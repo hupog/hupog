@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Hugo González Portilla
 
-Soy estudiante de Ingeniería Informática y desarrollador en formación, apasionado por crear soluciones útiles, escalables y bien diseñadas. Me encanta aprender cosas nuevas y resolver problemas complejos, tanto en equipo como por mi cuenta.
+Graduado en Ingeniería Informática y desarrollador en formación, apasionado por crear soluciones útiles, escalables y bien diseñadas. Me encanta aprender cosas nuevas y resolver problemas complejos, tanto en equipo como por mi cuenta.
 
 Actualmente estoy finalizando la carrera y tengo experiencia práctica en desarrollo web y embebido gracias a proyectos personales, prácticas profesionales y colaboraciones académicas. También he tenido la oportunidad de trabajar en entornos reales, desarrollando portales internos y aplicaciones completas.
 
